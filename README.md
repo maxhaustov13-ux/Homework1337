@@ -48,6 +48,6 @@ cat result.txt
 
 ####Expected output:
 
-Hello from Rivia!
+#Hello from Rivia!
 
 # Homework1337 (Khaustov Maxim)
