@@ -2,7 +2,7 @@
 
 ## What it does 
 Creates file `result.txt` with one line:
-`Hello from workflow!`
+`Hello from Rivia!`
 
 ## Requirements
 - Debian/Linux (or Docker with Debian)
@@ -43,7 +43,7 @@ pip install snakemake
 snakemake --cores 1
 
 ####Check result
-�од
+ºÐ¾Ð´
 cat result.txt
 
 ####Expected output:
